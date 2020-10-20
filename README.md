@@ -1,1 +1,1 @@
-# fireDetection
+# fireDetection with CNN
